@@ -35,5 +35,3 @@ for _, row in df.iterrows():
 
 
 
-# print(df.head())
-# print(df.shape)
